@@ -195,7 +195,7 @@ df['ATD_7d'] = df['온도편차'].rolling(7, min_periods=1).sum()
 
 ---
 
-## 🔗 References
+## References
 
 - [국토안전관리원 빅토리 플랫폼](https://bigtori.kalis.or.kr)
 - [고용노동부 2024 산업재해 현황](http://office.shinwooi.co.kr/board/download3.asp?type=2&category=7&seq=351)
